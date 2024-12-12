@@ -1,6 +1,6 @@
 
 # Clean-Architecture-ASP.NET Bookify
-
+![Clean Architecture ASP.NET Bookify](https://github.com/alijafarixcs/Clean-Architecture-ASP.NET/blob/main/Graphics3.png?raw=true)
 Bookify is a robust, scalable, and modular ASP.NET Core application designed to demonstrate modern software development principles. It incorporates Clean Architecture, Domain-Driven Design (DDD), Event-Driven Design, Command Query Responsibility Segregation (CQRS), Inversion of Control (IoC), and MediatR. This repository showcases how these concepts work together to build a high-quality, maintainable application.
 
 ---
